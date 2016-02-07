@@ -14,6 +14,18 @@
 		D0CCC4501C5E626300656C75 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC44E1C5E626300656C75 /* LaunchScreen.storyboard */; };
 		D0CCC45B1C5E626300656C75 /* CountAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CCC45A1C5E626300656C75 /* CountAppTests.swift */; };
 		D0CCC4661C5E626300656C75 /* CountAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CCC4651C5E626300656C75 /* CountAppUITests.swift */; };
+		D0CCC4761C6044AE00656C75 /* choco.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC4751C6044AE00656C75 /* choco.jpg */; };
+		D0CCC4781C6046B100656C75 /* choco1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC4771C6046B100656C75 /* choco1.jpg */; };
+		D0CCC47A1C60A9C300656C75 /* choco.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC4791C60A9C300656C75 /* choco.gif */; };
+		D0CCC47E1C60D54A00656C75 /* dumbbell.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC47D1C60D54A00656C75 /* dumbbell.gif */; };
+		D0CCC4801C60DD3100656C75 /* oval.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC47F1C60DD3100656C75 /* oval.gif */; };
+		D0CCC4821C60E57500656C75 /* choco2.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC4811C60E57500656C75 /* choco2.gif */; };
+		D0CCC4841C60EE5700656C75 /* baymax.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC4831C60EE5700656C75 /* baymax.gif */; };
+		D0CCC4861C60F23900656C75 /* baymax2.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC4851C60F23900656C75 /* baymax2.gif */; };
+		D0CCC4881C60FB3D00656C75 /* baymax3.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC4871C60FB3D00656C75 /* baymax3.gif */; };
+		D0CCC48C1C60FB5700656C75 /* baymaxFin.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC48B1C60FB5700656C75 /* baymaxFin.gif */; };
+		D0CCC48E1C60FD2700656C75 /* baymax4.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC48D1C60FD2700656C75 /* baymax4.gif */; };
+		D0CCC4901C62249B00656C75 /* fukidashi.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0CCC48F1C62249B00656C75 /* fukidashi.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +59,18 @@
 		D0CCC4611C5E626300656C75 /* CountAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D0CCC4651C5E626300656C75 /* CountAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountAppUITests.swift; sourceTree = "<group>"; };
 		D0CCC4671C5E626300656C75 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D0CCC4751C6044AE00656C75 /* choco.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = choco.jpg; path = "../../Life is Tech!/choco.jpg"; sourceTree = "<group>"; };
+		D0CCC4771C6046B100656C75 /* choco1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = choco1.jpg; path = "../../Life is Tech!/choco1.jpg"; sourceTree = "<group>"; };
+		D0CCC4791C60A9C300656C75 /* choco.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = choco.gif; path = "../../Life is Tech!/choco.gif"; sourceTree = "<group>"; };
+		D0CCC47D1C60D54A00656C75 /* dumbbell.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = dumbbell.gif; path = "../../Life is Tech!/dumbbell.gif"; sourceTree = "<group>"; };
+		D0CCC47F1C60DD3100656C75 /* oval.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = oval.gif; path = "../../Life is Tech!/oval.gif"; sourceTree = "<group>"; };
+		D0CCC4811C60E57500656C75 /* choco2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = choco2.gif; path = "../../Life is Tech!/choco2.gif"; sourceTree = "<group>"; };
+		D0CCC4831C60EE5700656C75 /* baymax.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = baymax.gif; path = "../../Life is Tech!/baymax.gif"; sourceTree = "<group>"; };
+		D0CCC4851C60F23900656C75 /* baymax2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = baymax2.gif; path = "../../Life is Tech!/baymax2.gif"; sourceTree = "<group>"; };
+		D0CCC4871C60FB3D00656C75 /* baymax3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = baymax3.gif; path = "../../Life is Tech!/baymax3.gif"; sourceTree = "<group>"; };
+		D0CCC48B1C60FB5700656C75 /* baymaxFin.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = baymaxFin.gif; path = "../../Life is Tech!/baymaxFin.gif"; sourceTree = "<group>"; };
+		D0CCC48D1C60FD2700656C75 /* baymax4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = baymax4.gif; path = "../../Life is Tech!/baymax4.gif"; sourceTree = "<group>"; };
+		D0CCC48F1C62249B00656C75 /* fukidashi.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = fukidashi.gif; path = "../../Life is Tech!/fukidashi.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +121,18 @@
 		D0CCC4441C5E626200656C75 /* CountApp */ = {
 			isa = PBXGroup;
 			children = (
+				D0CCC48F1C62249B00656C75 /* fukidashi.gif */,
+				D0CCC48D1C60FD2700656C75 /* baymax4.gif */,
+				D0CCC48B1C60FB5700656C75 /* baymaxFin.gif */,
+				D0CCC4871C60FB3D00656C75 /* baymax3.gif */,
+				D0CCC4851C60F23900656C75 /* baymax2.gif */,
+				D0CCC4831C60EE5700656C75 /* baymax.gif */,
+				D0CCC4811C60E57500656C75 /* choco2.gif */,
+				D0CCC47F1C60DD3100656C75 /* oval.gif */,
+				D0CCC47D1C60D54A00656C75 /* dumbbell.gif */,
+				D0CCC4791C60A9C300656C75 /* choco.gif */,
+				D0CCC4771C6046B100656C75 /* choco1.jpg */,
+				D0CCC4751C6044AE00656C75 /* choco.jpg */,
 				D0CCC4451C5E626200656C75 /* AppDelegate.swift */,
 				D0CCC4471C5E626200656C75 /* ViewController.swift */,
 				D0CCC4491C5E626200656C75 /* Main.storyboard */,
@@ -231,7 +267,19 @@
 			files = (
 				D0CCC4501C5E626300656C75 /* LaunchScreen.storyboard in Resources */,
 				D0CCC44D1C5E626200656C75 /* Assets.xcassets in Resources */,
+				D0CCC4861C60F23900656C75 /* baymax2.gif in Resources */,
+				D0CCC4761C6044AE00656C75 /* choco.jpg in Resources */,
+				D0CCC4881C60FB3D00656C75 /* baymax3.gif in Resources */,
+				D0CCC47A1C60A9C300656C75 /* choco.gif in Resources */,
+				D0CCC4821C60E57500656C75 /* choco2.gif in Resources */,
 				D0CCC44B1C5E626200656C75 /* Main.storyboard in Resources */,
+				D0CCC47E1C60D54A00656C75 /* dumbbell.gif in Resources */,
+				D0CCC4801C60DD3100656C75 /* oval.gif in Resources */,
+				D0CCC4841C60EE5700656C75 /* baymax.gif in Resources */,
+				D0CCC48E1C60FD2700656C75 /* baymax4.gif in Resources */,
+				D0CCC4901C62249B00656C75 /* fukidashi.gif in Resources */,
+				D0CCC48C1C60FB5700656C75 /* baymaxFin.gif in Resources */,
+				D0CCC4781C6046B100656C75 /* choco1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
